@@ -1,0 +1,2 @@
+# gituno
+git uno practica
